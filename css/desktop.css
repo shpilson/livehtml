@@ -1,0 +1,89 @@
+@font-face {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+    src: local("Roboto"), url('/fonts/roboto/roboto-regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: local("Roboto"), url('/fonts/roboto/roboto-bold.woff') format('woff');
+}
+
+body {
+    font-family: Roboto, sans-serif, system-ui;
+}
+
+.wrapper {}
+
+.header {}
+
+.container {}
+
+.top {}
+
+.top__menu {}
+
+.top__menu-box {}
+
+.top__menu-list {}
+
+.top__menu-item {}
+
+.top__menu-link {}
+
+.top__menu-auth {}
+
+.top__logo {}
+
+.top__logo-img {}
+
+.top__banner {}
+
+.top__banner-img {}
+
+.top__basket {}
+
+.top__basket-box {}
+
+.top__basket-item {}
+
+.top__basket-icon {}
+
+.top__basket-link {}
+
+.top__basket-preview {}
+
+.top__basket-preview-img {}
+
+.top__contacts {}
+
+.top__contacts-time {}
+
+.top__contacts-text--bold {}
+
+.top__contacts-text {}
+
+.top__contacts-phone {}
+
+.top__contacts-number {}
+
+.top__contacts-city {}
+
+.top__contacts-change {}
+
+.menu {}
+
+.menu-search {}
+
+.menu__list {}
+
+.menu__item {}
+
+.menu__link {}
+
+.menu__item--sales {}
