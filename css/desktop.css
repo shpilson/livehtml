@@ -18,7 +18,10 @@ body {
     font-family: Roboto, sans-serif, system-ui;
 }
 
-.wrapper {}
+.wrapper {
+    min-height: 100%;
+    overflow: hidden;
+}
 
 .header {}
 
